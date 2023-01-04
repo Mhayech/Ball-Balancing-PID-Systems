@@ -1,0 +1,11 @@
+Those are Instructions to follow in order to successfully compile the code.
+make sure that the code oussama_code.py is located 
+at the same folder with these photos .
+
+you may not be able to use 100% of the code because 
+it's not ready yet (Some 
+configuration are needed )
+
+config.ini : Is a configuration file written by me that
+helps to set all the configurations needed for the system,
+the camera and the controller in order to work properly.
